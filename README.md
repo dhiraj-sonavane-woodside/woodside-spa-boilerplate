@@ -9,7 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. [Node JS Version 16](https://nodejs.org/en/download/)
 2. [Latest Git](https://git-scm.com/download)
 3. [Latest AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-4. [Yarn]()
+4. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+5. [Yarn]()
 
 ```
 sudo npm install --location=global yarn
